@@ -1,0 +1,5 @@
+c:\users\giovanni.brogioli\documents\visual studio 2015\Projects\DesignLink\bin\Debug\DesignLink.dll
+c:\users\giovanni.brogioli\documents\visual studio 2015\Projects\DesignLink\bin\Debug\DesignLink.pdb
+c:\users\giovanni.brogioli\documents\visual studio 2015\Projects\DesignLink\obj\Debug\DesignLink.csprojResolveAssemblyReference.cache
+c:\users\giovanni.brogioli\documents\visual studio 2015\Projects\DesignLink\obj\Debug\DesignLink.dll
+c:\users\giovanni.brogioli\documents\visual studio 2015\Projects\DesignLink\obj\Debug\DesignLink.pdb
